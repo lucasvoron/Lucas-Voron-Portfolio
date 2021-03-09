@@ -8,7 +8,7 @@
       </parallax>
       <div class="content-center">
         <div class="container">
-          <h1 class="title">Awards and Achievements</h1>
+          <h1 class="title">Awards & Achievements</h1>
           <!-- <div class="text-center">
             <a href="#pablo" class="btn btn-primary btn-icon btn-round">
               <i class="fab fa-facebook-square"></i>
@@ -26,80 +26,92 @@
     <div class="section section-about-us">
       <div class="container">
         <div class="row">
-          <div class="col-md-8 ml-auto mr-auto text-center">
-            <h2 class="title">Who we are?</h2>
+          <div class="col-md-12 mr-auto">
+            <h2 class="title">Microsoft Best Use of Azure</h2>
+            <h4 class="subtitle">
+              Hack for Humanity (Feburary 2021) 
+              <a
+                class="link"
+                href="https://devpost.com/software/quick-bites"
+              >
+                <i class="fas fa-newspaper"></i>
+              </a>
+            </h4>
             <h5 class="description">
-              According to the National Oceanic and Atmospheric Administration,
-              Ted, Scambos, NSIDClead scentist, puts the potentially record low
-              maximum sea ice extent tihs year down to low ice extent in the
-              Pacific and a late drop in ice extent in the Barents Sea.
+              My team and I developed a website called Quick Bites whose foundation was the Microsoft developer tool, Azure. 
+              The mission of our website was to combat food-insecurity in a number of creative ways.
+              Users of our website could donate directly to the site where food insecure users could order their groceries online.
+              If users did not have money to donate, they could also post recipies of affordable, healthy meals that other users could take advantage of!
+              We were awarded with best use of Azure from Microsoft in this Hack for Humanity competition.
             </h5>
           </div>
         </div>
+        
         <div class="separator separator-primary"></div>
         <div class="section-story-overview">
           <div class="row">
-            <div class="col-md-6">
-              <div
-                class="image-container image-left"
-                style="background-image: url('img/login.jpg')"
-              >
-                <!-- First image on the left side -->
-                <p class="blockquote blockquote-primary">
-                  "Over the span of the satellite record, Arctic sea ice has
-                  been declining significantly, while sea ice in the
-                  Antarctichas increased very slightly"
-                  <br />
-                  <br />
-                  <small>-NOAA</small>
-                </p>
-              </div>
-              <!-- Second image on the left side of the article -->
+            <div class="col-md-4">
               <div
                 class="image-container"
-                style="background-image: url('img/bg3.jpg')"
-              ></div>
+                style="background-image: url('img/microsoft_logo.webp')"
+              >
+              </div>
             </div>
-            <div class="col-md-5">
+            <div class="col-md-8">
               <!-- First image on the right side, above the article -->
               <div
                 class="image-container image-right"
-                style="background-image: url('img/bg1.jpg')"
+                style="background-image: url('img/microsoft_group.jpg')"
               ></div>
-              <h3>
-                So what does the new record for the lowest level of winter ice
-                actually mean
-              </h3>
-              <p>
-                The Arctic Ocean freezes every winter and much of the sea-ice
-                then thaws every summer, and that process will continue whatever
-                happens with climate change. Even if the Arctic continues to be
-                one of the fastest-warming regions of the world, it will always
-                be plunged into bitterly cold polar dark every winter. And
-                year-by-year, for all kinds of natural reasons, there’s huge
-                variety of the state of the ice.
-              </p>
-              <p>
-                For a start, it does not automatically follow that a record
-                amount of ice will melt this summer. More important for
-                determining the size of the annual thaw is the state of the
-                weather as the midnight sun approaches and temperatures rise.
-                But over the more than 30 years of satellite records, scientists
-                have observed a clear pattern of decline, decade-by-decade.
-              </p>
-              <p>
-                The Arctic Ocean freezes every winter and much of the sea-ice
-                then thaws every summer, and that process will continue whatever
-                happens with climate change. Even if the Arctic continues to be
-                one of the fastest-warming regions of the world, it will always
-                be plunged into bitterly cold polar dark every winter. And
-                year-by-year, for all kinds of natural reasons, there’s huge
-                variety of the state of the ice.
-              </p>
             </div>
           </div>
         </div>
       </div>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 mr-auto">
+            <h2 class="title">Entrepreneurhsip Award</h2>
+            <h4 class="subtitle">
+              ENGR 1 Final Competition (December 2019) 
+              <a
+                class="link"
+                href="https://devpost.com/software/quick-bites"
+              >
+                <i class="fas fa-newspaper"></i>
+              </a>
+            </h4>
+            <h5 class="description">
+              My team and I developed a website called Quick Bites whose foundation was the Microsoft developer tool, Azure. 
+              The mission of our website was to combat food-insecurity in a number of creative ways.
+              Users of our website could donate directly to the site where food insecure users could order their groceries online.
+              If users did not have money to donate, they could also post recipies of affordable, healthy meals that other users could take advantage of!
+              We were awarded with best use of Azure from Microsoft in this Hack for Humanity competition.
+            </h5>
+          </div>
+        </div>
+        
+        <div class="separator separator-primary"></div>
+        <div class="section-story-overview">
+          <div class="row">
+            <div class="col-md-4">
+              <div
+                class="image-container"
+                style="background-image: url('img/microsoft_logo.webp')"
+              >
+              </div>
+            </div>
+            <div class="col-md-8">
+              <!-- First image on the right side, above the article -->
+              <div
+                class="image-container image-right"
+                style="background-image: url('img/microsoft_group.jpg')"
+              ></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
     <div class="section section-team text-center">
       <div class="container">
