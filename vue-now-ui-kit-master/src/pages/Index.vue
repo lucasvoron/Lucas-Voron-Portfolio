@@ -7,19 +7,21 @@
       >
       </parallax>
       <div class="container mt-5">
-        <div class="content-center brand">
-          <img src="img/linkedin_profile.png" alt="" 
-            class = "rounded-circle img-raised"
-            contain
-            height="300px"
-            width="300px"
-          />
-          <h1 class="h1 mt-5">LUCAS VORON</h1>
-          <h3>Driven to use creative thinking to promote innovation.</h3>
+        <div class="container mt-5">
+          <div class="content-center brand">
+            <img src="img/linkedin_profile.png" alt="" 
+              class = "rounded-circle img-raised"
+              contain
+              height="300px"
+              width="300px"
+            />
+            <h1 class="h1 mt-5">LUCAS VORON</h1>
+            <h3>Driven to use creative thinking to promote innovation.</h3>
+          </div>
         </div>
       </div>
     </div>
-    <div class="main">
+    <!-- <div class="main">
       <div class="section section-images">
         <div class="container">
           <div class="row">
@@ -37,7 +39,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <basic-elements></basic-elements>
     <navigation></navigation>
     <tabs-section></tabs-section>

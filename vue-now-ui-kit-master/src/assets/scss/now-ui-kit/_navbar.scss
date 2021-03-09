@@ -4,6 +4,7 @@
     min-height: 53px;
     margin-bottom: 20px;
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.15);
+    font-size: $font-size-h4;
 
     a{
         vertical-align: middle;
@@ -56,9 +57,9 @@
 
             i.fab,
             i.now-ui-icons{
-                font-size: 18px;
+                font-size: 25px;
                 position: relative;
-                top: 3px;
+                top: 0px;
                 text-align: center;
                 width: 21px;
             }
@@ -162,7 +163,7 @@
         .nav-item .nav-link:not(.btn):focus,
         .nav-item .nav-link:not(.btn):hover,
         .nav-item .nav-link:not(.btn):active{
-            background-color: $opacity-gray-3;
+            background-color: $primary-color;
         }
 
         .logo-container{
