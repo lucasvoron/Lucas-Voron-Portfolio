@@ -53,7 +53,7 @@
             <div class="col-md-4">
               <div
                 class="image-container"
-                style="background-image: url('img/microsoft_logo.webp')"
+                style="background-image: url('img/microsoft_logo.png')"
               >
               </div>
             </div>
