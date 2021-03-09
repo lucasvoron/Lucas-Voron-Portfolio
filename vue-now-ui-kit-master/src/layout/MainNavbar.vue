@@ -8,9 +8,9 @@
   >
     <template>
       <router-link v-popover:popover1 class="navbar-brand" to="/">
-        Now Ui Kit
+        Home
       </router-link>
-      <el-popover
+      <!-- <el-popover
         ref="popover1"
         popper-class="popover"
         placement="bottom"
@@ -20,10 +20,10 @@
         <div class="popover-body">
           Designed by Invision. Coded by Creative Tim
         </div>
-      </el-popover>
+      </el-popover> -->
     </template>
     <template slot="navbar-menu">
-      <li class="nav-item">
+      <!-- <li class="nav-item">
         <a
           class="nav-link"
           href="https://www.creative-tim.com/product/vue-now-ui-kit"
@@ -49,14 +49,32 @@
         >
           <i class="now-ui-icons design_bullet-list-67"></i> Documentation
         </a>
-      </drop-down>
+      </drop-down> -->
       <drop-down
               tag="li"
-              title="Examples"
-              icon="now-ui-icons design_image"
+              title="Menu "
+              icon=""
               class="nav-item"
       >
-        <nav-link to="/landing">
+        <nav-link to="/aboutme">
+          <i class="fas fa-user"></i>  About Me
+        </nav-link>
+        <nav-link to="/professional">
+          <i class="fas fa-briefcase"></i>  Professional Development
+        </nav-link>
+        <nav-link to="/projects">
+          <i class="fas fa-folder"></i>  Projects
+        </nav-link>
+        <nav-link to="/coursework">
+          <i class="fas fa-graduation-cap"></i>  Coursework
+        </nav-link>
+        <nav-link to="/leadership">
+          <i class="fas fa-users"></i>  Leadership
+        </nav-link>
+        <nav-link to="/awards">
+          <i class="fas fa-trophy"></i>  Awards
+        </nav-link>
+        <!-- <nav-link to="/landing">
           <i class="now-ui-icons education_paper"></i> Landing
         </nav-link>
         <nav-link to="/login">
@@ -64,9 +82,9 @@
         </nav-link>
         <nav-link to="/profile">
           <i class="now-ui-icons users_single-02"></i> Profile
-        </nav-link>
+        </nav-link> -->
       </drop-down>
-      <li class="nav-item">
+      <!-- <li class="nav-item">
         <a
           class="nav-link btn btn-neutral"
           href="https://www.creative-tim.com/product/vue-now-ui-kit-pro"
@@ -75,9 +93,9 @@
           <i class="now-ui-icons arrows-1_share-66"></i>
           <p>Upgrade to PRO</p>
         </a>
-      </li>
+      </li> -->
 
-      <li class="nav-item">
+      <!-- <li class="nav-item">
         <a
           class="nav-link"
           rel="tooltip"
@@ -102,18 +120,18 @@
           <i class="fab fa-facebook-square"></i>
           <p class="d-lg-none d-xl-none">Facebook</p>
         </a>
-      </li>
+      </li> -->
       <li class="nav-item">
         <a
           class="nav-link"
           rel="tooltip"
-          title="Follow us on Instagram"
+          title="Connect with me on LinkedIn"
           data-placement="bottom"
-          href="https://www.instagram.com/CreativeTimOfficial"
+          href="https://www.linkedin.com/in/lucasvoron/"
           target="_blank"
         >
-          <i class="fab fa-instagram"></i>
-          <p class="d-lg-none d-xl-none">Instagram</p>
+          <i class="fab fa-linkedin"></i>
+          <p class="d-lg-none d-xl-none">LinkedIn</p>
         </a>
       </li>
     </template>

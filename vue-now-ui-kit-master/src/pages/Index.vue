@@ -6,14 +6,15 @@
         style="background-image:url('img/linkedin_bg.png')"
       >
       </parallax>
-      <div class="container">
+      <div class="container mt-5">
         <div class="content-center brand">
           <img src="img/linkedin_profile.png" alt="" 
+            class = "rounded-circle img-raised"
             contain
             height="300px"
             width="300px"
           />
-          <h1 class="h1-seo mt-5">Lucas Voron</h1>
+          <h1 class="h1 mt-5">LUCAS VORON</h1>
           <h3>Driven to use creative thinking to promote innovation.</h3>
         </div>
       </div>
