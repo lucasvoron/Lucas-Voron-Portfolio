@@ -50,6 +50,19 @@
           <i class="now-ui-icons design_bullet-list-67"></i> Documentation
         </a>
       </drop-down> -->
+      <li class="nav-item">
+        <a
+          class="nav-link"
+          rel="tooltip"
+          title="Connect with me on LinkedIn"
+          data-placement="bottom"
+          href="https://www.linkedin.com/in/lucasvoron/"
+          target="_blank"
+        >
+          <i class="fab fa-linkedin"></i>
+          <p class="d-lg-none d-xl-none">LinkedIn</p>
+        </a>
+      </li>
       <drop-down
               tag="li"
               title="Menu "
@@ -121,19 +134,6 @@
           <p class="d-lg-none d-xl-none">Facebook</p>
         </a>
       </li> -->
-      <li class="nav-item">
-        <a
-          class="nav-link"
-          rel="tooltip"
-          title="Connect with me on LinkedIn"
-          data-placement="bottom"
-          href="https://www.linkedin.com/in/lucasvoron/"
-          target="_blank"
-        >
-          <i class="fab fa-linkedin"></i>
-          <p class="d-lg-none d-xl-none">LinkedIn</p>
-        </a>
-      </li>
     </template>
   </navbar>
 </template>
